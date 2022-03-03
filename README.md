@@ -1,1 +1,1 @@
-# learn-rxjs
+Snippets of RxJS code.
